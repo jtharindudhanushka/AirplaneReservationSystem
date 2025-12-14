@@ -1,0 +1,25 @@
+# Java class files
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# IDE Specific (We don't want to share these settings)
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+bin/
+
+# Maven / Spring Boot
+target/
+mvnw
+mvnw.cmd
+.mvn/
